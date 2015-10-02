@@ -1,2 +1,2 @@
 # URF-TestApp
-A simple URF windows console test application
+A simple windows console application that demonstrates a problem with SaveChangesAsync() with nested entity insertion.
